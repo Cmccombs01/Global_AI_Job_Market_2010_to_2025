@@ -1,5 +1,14 @@
-# Global AI Job Market Analysis (2010 - 2025)
-**Capstone Project 2**
+🌍 Global AI Job Market Analysis (2010-2025)
+An end-to-end Exploratory Data Analysis (EDA) project tracking 15 years of AI industry hiring trends, required skill overlaps, and compensation shifts.
+
+Analytical Highlights:
+
+Longitudinal Data Analysis: Analyzed massive datasets to map the evolution of the AI job market and predict future hiring demands.
+
+Statistical Insights: Uncovered hidden correlations between specific programming skills (like Python and SQL) and salary bands.
+
+Tech Stack: Jupyter Notebooks, Python, Statistical Analysis, Data Wrangling, Trend Forecasting.
+
 
 ## Project Overview
 This project provides a comprehensive analysis of the global AI job market over a 15-year period. By examining trends in job postings, required skills, and salary shifts, this analysis aims to identify the key drivers of AI employment and how the landscape has evolved from early adoption to the current generative AI era.
